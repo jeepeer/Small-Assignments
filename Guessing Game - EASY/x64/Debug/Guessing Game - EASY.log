@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\VSSaves\Small Assignments\Guessing Game - EASY\Source.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Guessing Game - EASY.vcxproj -> D:\VSSaves\Small Assignments\x64\Debug\Guessing Game - EASY.exe

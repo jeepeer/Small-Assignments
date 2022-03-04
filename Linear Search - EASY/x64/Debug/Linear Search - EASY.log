@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\VSSaves\Small Assignments\Linear Search - EASY\Source.cpp(10,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\VSSaves\Small Assignments\Linear Search - EASY\Source.cpp(22,12): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\VSSaves\Small Assignments\Linear Search - EASY\Source.cpp(25): warning C4715: 'FindNumber': not all control paths return a value
+  Linear Search - EASY.vcxproj -> D:\VSSaves\Small Assignments\x64\Debug\Linear Search - EASY.exe

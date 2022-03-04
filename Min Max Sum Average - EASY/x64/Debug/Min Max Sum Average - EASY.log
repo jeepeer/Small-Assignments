@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\VSSaves\Small Assignments\Min Max Sum Average - EASY\Source.cpp(13,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Min Max Sum Average - EASY.vcxproj -> D:\VSSaves\Small Assignments\x64\Debug\Min Max Sum Average - EASY.exe

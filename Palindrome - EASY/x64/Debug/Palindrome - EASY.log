@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\VSSaves\Small Assignments\Palindrome - EASY\Source.cpp(11,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\VSSaves\Small Assignments\Palindrome - EASY\Source.cpp(12,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Palindrome - EASY.vcxproj -> D:\VSSaves\Small Assignments\x64\Debug\Palindrome - EASY.exe
